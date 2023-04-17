@@ -22,6 +22,9 @@ other = "Related"
 [yourName]
 other = "Your Name"
 
+[click]
+other = "Click to see more"
+
 [emailAddress]
 other = "Email Address"
 

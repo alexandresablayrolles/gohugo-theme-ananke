@@ -22,6 +22,9 @@ other = "Lié"
 [yourName]
 other = "Votre nom"
 
+[click]
+other = "Cliquer pour voir plus"
+
 [emailAddress]
 other = "Adresse e-mail"
 
